@@ -1,0 +1,113 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>新产品</h2>
+    </div>
+    <div class="widget-products">
+    
+        <div class="pager">
+    
+        <p class="amount">
+                    <strong>3 个项目</strong>
+            </p>
+    
+    
+    
+        </div>
+    
+                            <ul class="products-grid">
+                    <li class="item first">
+                <a href="http://magento.local/similac-963g.html" title="Similac 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" class="product-image"><img src="http://magento.local/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/2/d/2d7a114f-1519-4fe1-a885-439afbe9d3ba-l-300x300.png" width="85" height="85" alt="Similac 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" /></a>
+                <h3 class="product-name"><a href="http://magento.local/similac-963g.html" title="Similac 雅培金盾一段婴儿奶粉963g美国原装【正品代购】)">Similac 雅培金盾一段婴儿奶粉963g美国原装【正品代购】</a></h3>
+                                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">常规价格：</span>
+                <span class="price" id="old-price-1-widget-new-grid">
+                    US$120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-1-widget-new-grid">
+                    US$110.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="添加到购物车" class="button btn-cart" onclick="setLocation('http://magento.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/product/1/form_key/wWaWX681zDiybnEE/')"><span><span>添加到购物车</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://magento.local/wishlist/index/add/product/1/form_key/wWaWX681zDiybnEE/" class="link-wishlist">添加到收藏</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://magento.local/catalog/product_compare/add/product/1/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/form_key/wWaWX681zDiybnEE/" class="link-compare">添加并比较</a></li>
+                                            </ul>
+                </div>
+            </li>
+                                    <li class="item">
+                <a href="http://magento.local/similac-963g-2.html" title="LULU 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" class="product-image"><img src="http://magento.local/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/2/d/2d7a114f-1519-4fe1-a885-439afbe9d3ba-l-300x300_1.png" width="85" height="85" alt="LULU 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" /></a>
+                <h3 class="product-name"><a href="http://magento.local/similac-963g-2.html" title="LULU 雅培金盾一段婴儿奶粉963g美国原装【正品代购】)">LULU 雅培金盾一段婴儿奶粉963g美国原装【正品代购】</a></h3>
+                                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">常规价格：</span>
+                <span class="price" id="old-price-2-widget-new-grid">
+                    US$120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-2-widget-new-grid">
+                    US$110.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="添加到购物车" class="button btn-cart" onclick="setLocation('http://magento.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/product/2/form_key/wWaWX681zDiybnEE/')"><span><span>添加到购物车</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://magento.local/wishlist/index/add/product/2/form_key/wWaWX681zDiybnEE/" class="link-wishlist">添加到收藏</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://magento.local/catalog/product_compare/add/product/2/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/form_key/wWaWX681zDiybnEE/" class="link-compare">添加并比较</a></li>
+                                            </ul>
+                </div>
+            </li>
+                                    <li class="item">
+                <a href="http://magento.local/similac-963g-3.html" title="AMWAY 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" class="product-image"><img src="http://magento.local/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/2/d/2d7a114f-1519-4fe1-a885-439afbe9d3ba-l-300x300_1_1.png" width="85" height="85" alt="AMWAY 雅培金盾一段婴儿奶粉963g美国原装【正品代购】" /></a>
+                <h3 class="product-name"><a href="http://magento.local/similac-963g-3.html" title="AMWAY 雅培金盾一段婴儿奶粉963g美国原装【正品代购】)">AMWAY 雅培金盾一段婴儿奶粉963g美国原装【正品代购】</a></h3>
+                                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">常规价格：</span>
+                <span class="price" id="old-price-3-widget-new-grid">
+                    US$120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-3-widget-new-grid">
+                    US$110.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="添加到购物车" class="button btn-cart" onclick="setLocation('http://magento.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/product/3/form_key/wWaWX681zDiybnEE/')"><span><span>添加到购物车</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://magento.local/wishlist/index/add/product/3/form_key/wWaWX681zDiybnEE/" class="link-wishlist">添加到收藏</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://magento.local/catalog/product_compare/add/product/3/uenc/aHR0cDovL21hZ2VudG8ubG9jYWwv/form_key/wWaWX681zDiybnEE/" class="link-compare">添加并比较</a></li>
+                                            </ul>
+                </div>
+            </li>
+                </ul>
+                    </div>
+</div>

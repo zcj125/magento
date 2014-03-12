@@ -1,0 +1,67 @@
+<footer>
+<article class="footer_article">
+<section cite="footer_first_section">
+<div class="footer_top_arrow"></div>
+<div class="footer-container">
+    <div class="footer container">
+    <div class="span12">
+        <div class="newsletter foot_pipe span4">
+        <div class="footer-block footer-block-subscribe">
+    <div class="block-title">
+        <strong><span>新闻邮件</span></strong>
+    </div>
+    <form action="http://magento.local/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <!--<div class="form-subscribe-header">
+                <label for="newsletter"></label>
+            </div>-->
+            <div class="newsletter_bg bscclearfix">
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="订阅我们的新闻邮件" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="GO" class="button"><span><span>GO</span></span></button>
+            </div>
+            </div>
+            <label>Please enter valid email id. We won't spam</label>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+        </div>
+ 
+        
+    </div>
+            </div>
+</div>
+<div class="footer_bot_arrow"></div>
+</section>
+<section cite="footer_second_section">
+<div class="footer-links">
+<div class="footer container">
+<ul>
+<li><a href="http://magento.local/about-magento-demo-store">About Us</a></li>
+<li><a href="http://magento.local/customer-service">Customer Service</a></li>
+<li class="last privacy"><a href="http://magento.local/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+</ul> 
+<ul class="links">
+                        <li class="toplink1 first" ><a href="http://magento.local/catalog/seo_sitemap/category/" title="站点结构图" >站点结构图</a></li>
+                                <li class="toplink2 " ><a href="http://magento.local/catalogsearch/term/popular/" title="搜索条件" >搜索条件</a></li>
+                                <li class="toplink3 " ><a href="http://magento.local/catalogsearch/advanced/" title="高级搜索" >高级搜索</a></li>
+                                <li ><a href="http://magento.local/sales/guest/form/" title="订单与退货" >订单与退货</a></li>
+                                <li class="toplink5  last" ><a href="http://magento.local/contacts/" title="联系我们" >联系我们</a></li>
+            </ul>
+<!--        <p class="bugs">帮助我们保证Magento的健康 - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>报告所有Bug</strong></a> （版本. 1.8.1.0）</p>-->
+<div>
+        <address>&copy; 2013 Magento Demo Store. All Rights Reserved.</address>
+<p class="poweredby" style="clear: both; text-align: center; line-height: 10px;margin-top: 5px;">Designed by <a class="bsetec" title="BseTec Themes" target="_blank" href="http://bsetec.com" style="display: inline; color: rgb(235, 86, 155);">BseTec Themes</a> | Powered by <a class="magento" title="Magento"  target="_blank" href="http://magentocommerce.com" style="display: inline; color: rgb(239, 59, 41);">Magento</a></p>
+</div>
+</div>
+</div>
+</section>
+</article>
+</footer>
